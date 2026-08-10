@@ -1,5 +1,5 @@
 public with sharing class TestGit {
-    public TestGit() {
-
+    public static String showDebug(){
+        return 'My Debug 2';
     }
 }
